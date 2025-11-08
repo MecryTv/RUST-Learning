@@ -1,0 +1,1 @@
+pub const API_KEY: &str = "ca332a78ca514ef78fc220645250811";
